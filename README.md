@@ -245,7 +245,6 @@ For support, please contact the development team or open an issue on GitHub.
 **Malvan Coastal Guardian**
 - Email: info@malvancoastalguardian.com
 - Website: https://malvancoastalguardian.manus.space
-- GitHub: https://github.com/malvan-coastal-guardian
 
 ---
 
